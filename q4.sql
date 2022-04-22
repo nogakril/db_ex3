@@ -7,4 +7,4 @@ with countPerCountry(region, country, totalCount) as
         where totalCount >= all (select totalCount
                                 from countPerCountry C2
                                 where C1.region = C2.region);
-        
+    order by region, country;    
