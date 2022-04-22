@@ -5,7 +5,7 @@ CREATE VIEW papers AS (SELECT *
 SELECT name
 FROM papers
 GROUP BY name
-HAVING count(*)>=2
+HAVING SUM(count)>=2
 INTERSECT
 SELECT name
 FROM papers
