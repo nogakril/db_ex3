@@ -1,0 +1,3197 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass heb-article
+\begin_preamble
+\usepackage{culmus}
+
+% Convert the Lyx colors into more pleasent colors:
+\usepackage{xcolor}
+\definecolor{blue}{RGB}{12,97,197}
+\definecolor{green}{RGB}{0,128,40}
+\definecolor{red}{RGB}{235,16,16}
+\definecolor{brown}{RGB}{154,58,0}
+\definecolor{orange}{RGB}{231,135,26}
+\definecolor{purple}{RGB}{94,53,177}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language hebrew
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 2cm
+\rightmargin 1cm
+\bottommargin 3cm
+\headheight 0cm
+\headsep 0cm
+\footskip 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation 0bp
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+)
+\numeric on
+67506
+\numeric off
+( שם הקורס
+\family roman
+\series medium
+\shape up
+\size largest
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+| תרגיל
+\family roman
+\series medium
+\shape up
+\size largest
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3
+\end_layout
+
+\begin_layout Author
+שי תם ונגה קריל
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape up
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\end_layout
+
+\begin_layout Subsection*
+א.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+SELECT & \text{distinct year}\\
+FROM & \text{authors}\\
+WHERE & \text{institution='Hebrew University of Jerusalem'}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+ב.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename qp1.png
+	scale 80
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\bar under
+משך ריצת השאילתה
+\bar default
+:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+31.812
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+מילי-שניות.
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\bar under
+אופן חישוב השאילתה
+\bar default
+:
+\end_layout
+
+\begin_layout Standard
+תחילה, התבצעה סריקה רציפה של כל שורות הטבלה ובכל אחת נבדק התנאי:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula 
+\[
+institution='\text{Hebrew\,\,University\,\,of\,\,Jerusalem}'
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+לאחר מכן, כל השורות שעברו את הסינון של התנאי הוכנסו לתוך טבלת גיבוב כאשר
+ המפתח הוא השדה 
+\begin_inset Formula $\text{year}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+לבסוף, השאילתה החזירה את כל המפתחות של טבלת הגיבוב.
+\end_layout
+
+\begin_layout Subsection*
+ג.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+\text{CREATE INDEX ON authors(institution)}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+ד.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename qp2.png
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\bar under
+משך ריצת השאילתה
+\bar default
+:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1.686
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+מילי-שניות.
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\bar under
+אופן חישוב השאילתה
+\bar default
+:
+\end_layout
+
+\begin_layout Standard
+תחילה, נעשה שימוש באינדקס על השדה 
+\begin_inset Formula $institution$
+\end_inset
+
+ כדי למצוא את המיקומים )מס' בלוק + מס' שורה( של השורות עם הערך: 
+\begin_inset Formula 
+\[
+institution='\text{Hebrew\,\,University\,\,of\,\,Jerusalem}'
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+לאחר מכן, התבצע מיון של מספרי הבלוקים הרלוונטיים כדי לבצע קריאה יעילה מהדיסק.
+ מכיוון שכמות הבלוקים שנמצאו מתאימים
+\end_layout
+
+\begin_layout Standard
+היא גדולה, מערכת ה-
+\begin_inset Formula $\text{DB}$
+\end_inset
+
+ ויתרה על שמירת מספרי השורות.
+\end_layout
+
+\begin_layout Standard
+לאחר מכן, התבצעה קריאה של הבלוקים הרלוונטים וסריקה של השורות בכל בלוק ובכל
+ אחת נבדק התנאי: 
+\begin_inset Formula 
+\[
+institution='\text{Hebrew\,\,University\,\,of\,\,Jerusalem}'
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+לבסוף, כל השורות שעברו את הסינון של התנאי הוכנסו לתוך טבלת גיבוב כאשר המפתח
+ הוא השדה 
+\begin_inset Formula $\text{year}$
+\end_inset
+
+, והשאילתה החזירה את כל המפתחות של טבלת הגיבוב.
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape up
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\end_layout
+
+\begin_layout Subsection*
+א.
+\end_layout
+
+\begin_layout Subsubsection*
+)
+\numeric on
+1
+\numeric off
+( 
+\end_layout
+
+\begin_layout Standard
+יתבצע מעבר על כל שורות הטבלה תוך בדיקת קיום התנאי
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $count=2$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+מהנתון: הטבלה מכילה
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+12,000
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+שורות כך שכל שורה תופסת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+180
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+בתים, וגודל בלוק הוא
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2000
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+בתים.
+\end_layout
+
+\begin_layout Standard
+מכאן שנכנסות 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Formula $\lfloor\frac{2000}{180}\rfloor=11$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+ שורות בבלוק, ומכאן שהטבלה מתפרשת על 
+\begin_inset space ~
+\end_inset
+
+
+\numeric on
+
+\begin_inset Formula $\lceil\frac{12,000}{11}\rceil=1091$
+\end_inset
+
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset space ~
+\end_inset
+
+בלוקים.
+\end_layout
+
+\begin_layout Standard
+מכיוון שצריך לקרוא את כל הבלוקים של הטבלה, ידרשו
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1091
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+פעולות 
+\begin_inset Formula $I/O$
+\end_inset
+
+ סך הכל.
+\end_layout
+
+\begin_layout Subsubsection*
+)
+\numeric on
+2
+\numeric off
+(
+\end_layout
+
+\begin_layout Standard
+דרגת הפיצול האופטימלית של האינדקס תהיה: 
+\begin_inset Formula 
+\[
+d=\left\lfloor \frac{\text{size(count)+size(block)}}{\text{size(count)+size(pointer)}}\right\rfloor =\left\lfloor \frac{2000+8}{8+8}\right\rfloor =125
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+)
+\numeric on
+3
+\numeric off
+( 
+\end_layout
+
+\begin_layout Standard
+עלות חישוב השאילתה באמצעות האינדקס:
+\end_layout
+
+\begin_layout Itemize
+
+\bar under
+שלב א'
+\bar default
+: 
+\bar under
+ירידה במורד העץ
+\bar default
+ - 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Formula $\lceil log_{\lceil\frac{125}{2}\rceil}12000\rceil=3$
+\end_inset
+
+ 
+\begin_inset space ~
+\end_inset
+
+פעולות
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $I/O$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\bar under
+שלב ב'
+\bar default
+: 
+\bar under
+קריאת כל העלים שמכילים שורות שמקיימות את התנאי
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $count=2$
+\end_inset
+
+
+\bar default
+ - 
+\begin_inset Newline newline
+\end_inset
+
+הערכים בשדה 
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $count$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+ הם מספרים שלמים בטווח
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $[1,20]$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+ שמתפלגים באופן אחיד.
+ 
+\begin_inset Newline newline
+\end_inset
+
+מכאן שמספר השורות שמתאימות לתנאי
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $count=2$
+\end_inset
+
+ 
+\begin_inset space ~
+\end_inset
+
+הוא
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\frac{12000}{20}=600$
+\end_inset
+
+.
+ 
+\begin_inset Newline newline
+\end_inset
+
+השורות הללו תופסות לכל היותר
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\lceil\frac{600}{\lceil\frac{125}{2}\rceil-1}\rceil=10$
+\end_inset
+
+ 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+עלים.
+ 
+\begin_inset Newline newline
+\end_inset
+
+קריאת העלים תדרוש
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+10
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+פעולות
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $I/O$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\bar under
+סה
+\begin_inset Quotes erd
+\end_inset
+
+כ
+\series default
+\bar default
+ לצורך חישוב השאילתה יידרשו 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Formula $3+10=13$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+ פעולות 
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $I/O$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+ב.
+\end_layout
+
+\begin_layout Subsubsection*
+)
+\numeric on
+1
+\numeric off
+( 
+\end_layout
+
+\begin_layout Standard
+במקרה זה, נצטרך לעבור שורה שורה בטבלה ולבדוק את התנאי 
+\begin_inset Formula $count=2$
+\end_inset
+
+.
+ בטבלה יש
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+12,000
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+שורות, כל שורה תופסת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+180
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+בייטים, גודל בלוק
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2000
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+בייטים.
+ לכן יש 
+\begin_inset Formula $\lfloor\frac{2000}{180}\rfloor=11$
+\end_inset
+
+ שורות בבלוק, והטבלה מחולקת ל-
+\numeric on
+
+\begin_inset Formula $\lceil\frac{12,000}{11}\rceil=1091$
+\end_inset
+
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+בלוקים.
+ סה
+\begin_inset Quotes erd
+\end_inset
+
+כ ידרשו
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1091
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+פעולות 
+\begin_inset Formula $I/O$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+)
+\numeric on
+2
+\numeric off
+( 
+\end_layout
+
+\begin_layout Standard
+דרגת הפיצול האופטימלית של האינדקס היא 
+\begin_inset Formula $\lfloor\frac{\text{size(count)+size(block)}}{\text{size(count)+size(pointer)}}\rfloor=\lfloor\frac{2000+8}{8+8}\rfloor=125$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+)
+\numeric on
+3
+\numeric off
+(
+\end_layout
+
+\begin_layout Standard
+שלב
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\numeric off
+: ירידה במסלול לעלה המתאים בעץ.
+ סה
+\begin_inset Quotes erd
+\end_inset
+
+כ 
+\begin_inset Formula $\lceil log_{\lceil\frac{125}{2}\rceil}12000\rceil=3$
+\end_inset
+
+ פעולות 
+\begin_inset Formula $I/O$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+שלב
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\numeric off
+: מעבר במסלול על העלים וקריאת הבלוקים של כל העלים המתאימים לתנאי 
+\begin_inset Formula $count=2$
+\end_inset
+
+.
+ יש
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\begin_inset Formula $\frac{1}{20}*12000=600$
+\end_inset
+
+ כאלה כי השדה 
+\begin_inset Formula $count$
+\end_inset
+
+ מתפלג אחיד על הערכים 
+\begin_inset Formula $[1,20]$
+\end_inset
+
+.
+ סה
+\begin_inset Quotes erd
+\end_inset
+
+כ
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ יש
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+600
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+אינדקסים המתאימים לתנאי שיופיעו ב-
+\begin_inset Formula $\lceil\frac{600}{\lceil\frac{125}{2}\rceil-1}\rceil=10$
+\end_inset
+
+ בלוקים שנצטרך לקרוא.
+ לכן סה
+\begin_inset Quotes erd
+\end_inset
+
+כ נבצע
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+10
+\numeric off
+ פעולות 
+\begin_inset Formula $I/O$
+\end_inset
+
+ של קריאת הערך 
+\begin_inset Formula $count$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+שלב
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3
+\numeric off
+: נקרא את השורות המתאימות לערכים של העלים כדי להביא את השדה 
+\begin_inset Formula $name$
+\end_inset
+
+.
+ במקרה הגרוע ביותר כל שורה תהיה בבלוק נפרד לכן נצטרך לקרוא בלוקים.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+עלות החישוב
+\series default
+ - סה
+\begin_inset Quotes erd
+\end_inset
+
+כ נקבל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3+10+600
+\numeric off
+=
+\numeric on
+613
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+פעולות 
+\begin_inset Formula $I/O$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+ג.
+\end_layout
+
+\begin_layout Subsubsection*
+)
+\numeric on
+1
+\numeric off
+(
+\end_layout
+
+\begin_layout Standard
+יתבצע מעבר על כל שורות הטבלה תוך בדיקת קיום התנאי
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $name='x'\,\,and\,\,conference='y'\,\,and\,\,year=1999$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+מהנתון: הטבלה מכילה
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+12,000
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+שורות כך שכל שורה תופסת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+180
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+בתים, וגודל בלוק הוא
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2000
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+בתים.
+\end_layout
+
+\begin_layout Standard
+מכאן שנכנסות 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Formula $\lfloor\frac{2000}{180}\rfloor=11$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+ שורות בבלוק, ומכאן שהטבלה מתפרשת על 
+\begin_inset space ~
+\end_inset
+
+
+\numeric on
+
+\begin_inset Formula $\lceil\frac{12,000}{11}\rceil=1091$
+\end_inset
+
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset space ~
+\end_inset
+
+בלוקים.
+\end_layout
+
+\begin_layout Standard
+מכיוון שצריך לקרוא את כל הבלוקים של הטבלה, ידרשו
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1091
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+פעולות 
+\begin_inset Formula $I/O$
+\end_inset
+
+ סך הכל.
+\end_layout
+
+\begin_layout Subsubsection*
+)
+\numeric on
+2
+\numeric off
+(
+\end_layout
+
+\begin_layout Standard
+דרגת הפיצול האופטימלית של האינדקס תהיה: 
+\begin_inset Formula 
+\[
+d=\left\lfloor \frac{\text{\left[\text{size(name)+size(conference)+size(year)}\right]+size(block)}}{\text{\left[\text{size(name)+size(conference)+size(year)}\right]+size(pointer)}}\right\rfloor =\left\lfloor \frac{\left(16+6+4\right)+2000}{(16+6+4)+8}\right\rfloor =59
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+)
+\numeric on
+3
+\numeric off
+(
+\end_layout
+
+\begin_layout Standard
+עלות חישוב השאילתה באמצעות האינדקס:
+\end_layout
+
+\begin_layout Itemize
+
+\bar under
+שלב א'
+\bar default
+: 
+\bar under
+ירידה במורד העץ
+\bar default
+ -
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\lceil log_{\lceil\frac{59}{2}\rceil}12000\rceil=3$
+\end_inset
+
+ 
+\begin_inset space ~
+\end_inset
+
+פעולות
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $I/O$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\bar under
+שלב ב'
+\bar default
+: 
+\bar under
+מציאת העלה שמכיל את השורה שמקיימת את התנאי
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $name='x'\,\,and\,\,conference='y'\,\,and\,\,year=1999$
+\end_inset
+
+
+\bar default
+ - 
+\begin_inset Newline newline
+\end_inset
+
+מכיוון ששלושת השדות 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Formula $name,\,conference,\,year$
+\end_inset
+
+ 
+\begin_inset space ~
+\end_inset
+
+יחד מהווים מפתח, השורה שמקיימת את התנאי )אם קיימת( היא בהכרח יחידה ולכן
+ נצטרך לקרוא עלה יחיד.
+\begin_inset Newline newline
+\end_inset
+
+סה
+\begin_inset Quotes erd
+\end_inset
+
+כ פעולת 
+\begin_inset Formula $I/O$
+\end_inset
+
+ אחת.
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\bar under
+סה
+\begin_inset Quotes erd
+\end_inset
+
+כ
+\series default
+\bar default
+ לצורך חישוב השאילתה יידרשו 
+\begin_inset space ~
+\end_inset
+
+
+\numeric on
+
+\begin_inset Formula $3+1=4$
+\end_inset
+
+
+\numeric off
+
+\begin_inset space ~
+\end_inset
+
+ פעולות 
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $I/O$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+ד.
+\end_layout
+
+\begin_layout Subsubsection*
+)
+\numeric on
+1
+\numeric off
+(
+\end_layout
+
+\begin_layout Standard
+דרגת הפיצול האופטימלית של האינדקס היא 
+\begin_inset Formula $\lfloor\frac{\text{size(conference,name)+size(block)}}{\text{size(conference,name)+size(pointer)}}\rfloor=\lfloor\frac{2000+(16+6)}{8+(16+6)}\rfloor=67$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+)
+\numeric on
+2
+\numeric off
+(
+\end_layout
+
+\begin_layout Standard
+שלב
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\numeric off
+: ירידה במסלול לעלה המתאים ל-
+\begin_inset Formula $conference=x$
+\end_inset
+
+ בעץ.
+ סה
+\begin_inset Quotes erd
+\end_inset
+
+כ 
+\begin_inset Formula $\lceil log_{\lceil\frac{67}{2}\rceil}12000\rceil=3$
+\end_inset
+
+ פעולות 
+\begin_inset Formula $I/O$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+שלב
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\numeric off
+: מעבר במסלול על העלים וקריאה כל העלים המתאימים לתנאי 
+\begin_inset Formula $conference=x$
+\end_inset
+
+.
+ יש
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset Formula $\frac{1}{80}*12000=150$
+\end_inset
+
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ כאלה כי השדה 
+\begin_inset Formula $conference$
+\end_inset
+
+ מחולק ל-
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+80
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ערכים כאלה
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ שנמצאים ב-
+\begin_inset Formula $\lceil\frac{150}{\lceil\frac{67}{2}\rceil-1}\rceil=5$
+\end_inset
+
+ בלוקים שנצטרך לקרוא.
+ סה
+\begin_inset Quotes erd
+\end_inset
+
+כ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+5
+\numeric off
+ פעולות 
+\begin_inset Formula $I/O$
+\end_inset
+
+.
+ כל הערכים 
+\begin_inset Formula $name$
+\end_inset
+
+ המתאימים נמצאים באינדקס ולכן לא נצטרך לבצע עוד פעולות.
+\end_layout
+
+\begin_layout Standard
+נבצע את שני השלבים הראשונים עבור 
+\begin_inset Formula $conference=y$
+\end_inset
+
+, כי עלינו למצוא מחדש את העלים המתאימים בעץ עבור ערך זה.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+עלות החישוב
+\series default
+ - סה
+\begin_inset Quotes erd
+\end_inset
+
+כ נקבל
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3+5+3+5
+\numeric off
+=
+\numeric on
+16
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+פעולות 
+\begin_inset Formula $I/O$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+ה.
+\end_layout
+
+\begin_layout Subsubsection*
+)
+\numeric on
+1
+\numeric off
+(
+\end_layout
+
+\begin_layout Standard
+דרגת הפיצול האופטימלית של האינדקס תהיה: 
+\begin_inset Formula 
+\[
+d=\left\lfloor \frac{\text{size(count)+size(block)}}{\text{size(count)+size(pointer)}}\right\rfloor =\left\lfloor \frac{2000+8}{8+8}\right\rfloor =125
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+)
+\numeric on
+2
+\numeric off
+(
+\end_layout
+
+\begin_layout Standard
+עלות חישוב השאילתה באמצעות האינדקס:
+\end_layout
+
+\begin_layout Itemize
+
+\bar under
+שלב א'
+\bar default
+: 
+\bar under
+ירידה במורד העץ
+\bar default
+ -
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\lceil log_{\lceil\frac{125}{2}\rceil}12000\rceil=3$
+\end_inset
+
+ 
+\begin_inset space ~
+\end_inset
+
+פעולות
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $I/O$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\bar under
+שלב ב'
+\bar default
+: 
+\bar under
+קריאת כל העלים שמכילים שורות שמקיימות את התנאי
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $count>1$
+\end_inset
+
+
+\bar default
+ - 
+\begin_inset Newline newline
+\end_inset
+
+הערכים בשדה 
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $count$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+ הם מספרים שלמים בטווח
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $[1,20]$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+ שמתפלגים באופן אחיד.
+ 
+\begin_inset Newline newline
+\end_inset
+
+מכאן שמספר השורות שמתאימות לתנאי
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $count>1$
+\end_inset
+
+ 
+\begin_inset space ~
+\end_inset
+
+הוא:
+\begin_inset Formula 
+\begin{align*}
+matching\_rows & =all\_rows-non\_matching\_rows\\
+ & =all\_rows-rows\_with\_count\_eq\_1\\
+ & =12000-\frac{12000}{20}\\
+ & =12000-600\\
+ & =11400
+\end{align*}
+
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+השורות הללו תופסות לכל היותר
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\lceil\frac{11400}{\lceil\frac{125}{2}\rceil-1}\rceil=184$
+\end_inset
+
+ 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+עלים.
+ 
+\begin_inset Newline newline
+\end_inset
+
+קריאת העלים תדרוש
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+184
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+פעולות
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $I/O$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\bar under
+שלב ג'
+\bar default
+: 
+\bar under
+קריאת הבלוקים של הטבלה שמכילים את השורות המתאימות
+\bar default
+ )בשביל השדה 
+\begin_inset Formula $name$
+\end_inset
+
+( -
+\begin_inset Newline newline
+\end_inset
+
+במקרה הכי גרוע, כל שורה תהיה בבלוק נפרד ונצטרך לקרוא
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+11400
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+בלוקים.
+
+\series bold
+ אבל 
+\series default
+הטבלה כולה מתפרשת על
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1091
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+בלוקים בלבד,
+\begin_inset Newline newline
+\end_inset
+
+לכן כדי לקרוא את כל השורות הנחוצות מהטבלה, נצטרך לקרוא
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1091
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+בלוקים לכל היותר, כלומר
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1091
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+פעולות
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $I/O$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\bar under
+סה
+\begin_inset Quotes erd
+\end_inset
+
+כ
+\series default
+\bar default
+ לצורך חישוב השאילתה יידרשו 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Formula $3+184+1091=1278$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+ פעולות 
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $I/O$
+\end_inset
+
+.
+\end_layout
+
+\end_body
+\end_document
